@@ -73,5 +73,5 @@ Each folder holds that module's notes, command cheat sheet, and exercise write-u
 
 I'm Ali Shahid, a BS Cyber Security & Digital Forensics student and published researcher, building hands-on skills with the goal of working in cybersecurity in Switzerland.
 
-- LinkedIn: `ADD-LINK-HERE`
-- Email: `ADD-EMAIL-HERE`
+- LinkedIn: `www.linkedin.com/in/alishahid-cyberx`
+- Email: `alishahid.cyberx@gmail.com`
